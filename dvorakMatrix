@@ -1,6 +1,5 @@
-/* A standard layout for the Dactyl Manuform 5x6 Keyboard */ 
-%this build is missing the left thumb due to being replaced with a trackpad, 
-%therefore the keys are empty on all layers
+/* A standard layout for the Dactyl Manuform 5x6 Keyboard this build is missing the R-thumb due to being replaced with a trackpad, therefore the R-thumb keys are empty on all layers */ 
+
 #include QMK_KEYBOARD_H
 
 extern keymap_config_t keymap_config;
